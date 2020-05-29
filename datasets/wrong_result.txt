@@ -1,0 +1,105 @@
+Sentence 1 rankings: 
+Much of the water carried by these streams is diverted .
+diverted
+['drawn away', 'redirected', 'changed', 'turned', 'moved', 'rerouted', 'led away', 'sent away', 'separated', 'switched', 'split', 'altered', 'veered', 'channeled', 'deflected']
+Candidate_words:
+['reclaimed', 'pumped', 'derived', 'routed', 'transferred', 'wasted', 'recycled', 'converted', 'displaced', 'reserved']
+sis_rank:
+[8, 4, 9, 2, 1, 3, 7, 5, 6, 10]
+count_rank:
+[9, 8, 1, 7, 2, 4, 10, 3, 6, 5]
+lm_rank:
+[3, 6, 4, 5, 10, 7, 2, 9, 8, 1]
+ranks:
+[21, 20, 17, 18, 18, 20, 26, 25, 29, 26]
+derived
+Sentence 6 rankings: 
+Food is procured with its suckers and then crushed using its tough `` beak '' of chitin .
+procured
+['obtained', 'gotten', 'found', 'gathered', 'batten', 'aquired', 'grabbed', 'created', 'attained', 'made', 'acquired', 'received', 'processed', 'collected', 'secured']
+Candidate_words:
+['obtained', 'secured', 'prepared', 'plucked', 'selected', 'acquired', 'harvested', 'derived', 'picked', 'gathered']
+sis_rank:
+[1, 3, 5, 8, 9, 2, 7, 4, 6, 10]
+count_rank:
+[7, 8, 3, 9, 5, 4, 10, 6, 1, 2]
+lm_rank:
+[7, 5, 4, 2, 9, 8, 3, 10, 6, 1]
+ranks:
+[16, 18, 15, 23, 28, 20, 27, 28, 22, 23]
+prepared
+Sentence 15 rankings: 
+"Das Rheingold is the first of the four operas that comprise Der Ring des Nibelungen , by Richard Wagner ."
+comprise
+['make up', 'makes', 'includes', 'consist of', 'compose', 'form', 'contain', 'include', 'contains', 'agreed', 'included', 'cover', 'create']
+Candidate_words:
+['constitute', 'contain', 'collect', 'form', 'construct', 'encompass', 'assemble', 'aggregate', 'consist', 'consume']
+sis_rank:
+[2, 4, 8, 9, 5, 3, 6, 10, 1, 7]
+count_rank:
+[6, 2, 3, 1, 5, 10, 9, 8, 4, 7]
+lm_rank:
+[1, 4, 6, 2, 7, 3, 8, 9, 5, 10]
+ranks:
+[10, 12, 20, 16, 22, 22, 30, 35, 19, 34]
+constitute
+Sentence 16 rankings: 
+A frenulum is a small fold of tissue that secures or restricts the motion of a mobile organ in the body .
+secures
+['stops', 'holds', 'ties', 'binds', 'fixed', 'protects', 'tightens', 'keeps', 'prevents', 'locks', 'confines', 'fastens', 'fixes', 'limits', 'restrains', 'keep', 'traps', 'guards']
+Candidate_words:
+['guarantees', 'ensures', 'facilitates', 'supports', 'maintains', 'holds', 'prevents', 'helps', 'confines', 'protects']
+sis_rank:
+[8, 3, 4, 5, 6, 2, 7, 9, 10, 1]
+count_rank:
+[8, 7, 9, 2, 4, 1, 5, 3, 10, 6]
+lm_rank:
+[8, 6, 4, 2, 7, 9, 1, 10, 3, 5]
+ranks:
+[25, 18, 20, 13, 22, 18, 20, 30, 32, 22]
+supports
+Sentence 18 rankings: 
+"When Wotan refuses to abandon his `` free hero '' , Fricka lays bare his self-deception : Siegmund is in no sense independent since his fate has been pre-ordained by Wotan , who has even indirectly led him to find the magic sword ."
+refuses
+['does not want', 'declines', 'denies', 'decides not to', 'protests', 'ceases', 'disallowed', 'stopped', 'fails', 'declined', "doesn't", 'stops', 'says no', 'denied', "doesn't want", 'refrain', 'disagrees', 'decline', 'decides not', "won't", 'avoids']
+Candidate_words:
+['insists', 'declines', 'decides', 'threatens', 'continues', 'agrees', 'accepts', 'yields', 'leaves', 'demands']
+sis_rank:
+[3, 7, 1, 5, 6, 2, 4, 10, 9, 8]
+count_rank:
+[7, 10, 4, 9, 2, 6, 8, 5, 1, 3]
+lm_rank:
+[6, 5, 1, 2, 7, 4, 10, 9, 8, 3]
+ranks:
+[17, 24, 9, 20, 20, 18, 29, 32, 27, 24]
+decides
+Sentence 23 rankings: 
+"Following the death of Schidlof from a heart attack in 1987 , the Amadeus Quartet disbanded ."
+disbanded
+['dissolved', 'scattered', 'broke up', 'quit', 'separated', 'died', 'ended', 'split up', 'stopped', 'split', 'broke apart']
+Candidate_words:
+['ceased', 'retired', 'formed', 'divorced', 'faltered', 'resigned', 'reformed', 'terminated', 'cancelled', 'contracted']
+sis_rank:
+[4, 6, 3, 9, 8, 2, 1, 7, 5, 10]
+count_rank:
+[3, 2, 1, 7, 9, 4, 5, 10, 6, 8]
+lm_rank:
+[6, 5, 2, 7, 3, 1, 4, 10, 9, 8]
+ranks:
+[14, 15, 9, 27, 25, 13, 17, 35, 29, 36]
+formed
+Sentence 24 rankings: 
+"By 1960 he had developed the short story into a screenplay , and envisaged it as containing a suitable role for Monroe ."
+envisaged
+['imagined', 'pictured', 'saw', 'considered', 'anticipated', 'conceived', 'good', 'envisioned', 'predicted', 'seen', 'featured']
+Candidate_words:
+['regarded', 'intended', 'anticipated', 'identified', 'imagined', 'realised', 'indicated', 'contemplated', 'arranged', 'examined']
+sis_rank:
+[8, 5, 3, 7, 1, 2, 6, 4, 9, 10]
+count_rank:
+[2, 1, 8, 3, 7, 9, 5, 10, 4, 6]
+lm_rank:
+[1, 4, 10, 2, 7, 9, 5, 6, 8, 3]
+ranks:
+[12, 12, 24, 16, 20, 26, 23, 28, 30, 29]
+regarded
